@@ -28,3 +28,13 @@ const ArrowFunc = (arrow) => arrow.map(arrow =>
 ```
 ### Projects:
 #### [Homework-CoffeeMachine](https://zulfat95.github.io/Homework-coffeemachine/)
+
+### Education:
+* University: Kazan State Power Engineering University
+* Courses: 
+    * English: Alibra School
+
+### Languages:
+* **English** - B1
+* **Russian** - C
+* **Tatar** - C
